@@ -1,0 +1,33 @@
+_repo: Autumn-Leaves_67436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barton, Ardelia Maria Cotton
+    aliases:
+    - Barton, Ardelia Maria
+    - Barton, Ardelia M.
+    birthdate: 1843
+    gutenberg_agent_id: '54194'
+    url: http://www.gutenberg.org/2009/agents/54194
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67436'
+  lccn: '2007530145'
+language: en
+pgterms:marc904: https://archive.org/details/autumnleaves00bart/page/n11/mode/2up
+pgterms:marc905: 20210904205020barton
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Press of Bruce Brough,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: Autumn Leaves
+url: http://www.gutenberg.org/ebooks/67436
